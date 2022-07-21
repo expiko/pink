@@ -1,0 +1,7 @@
+layout/
+build/
+node_modules/
+.prettierrc.json
+Gulpfile.js
+package.json
+package-lock.json
