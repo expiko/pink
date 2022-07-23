@@ -1,6 +1,7 @@
 layout/
 build/
 node_modules/
+.vscode/
 .prettierrc.json
 Gulpfile.js
 package.json
