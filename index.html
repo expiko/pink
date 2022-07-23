@@ -264,63 +264,65 @@
           <input class="slider__input visually-hidden" id="price-input-1" name="price" type="radio" />
           <input class="slider__input visually-hidden" id="price-input-2" name="price" type="radio" checked />
           <input class="slider__input visually-hidden" id="price-input-3" name="price" type="radio" />
-          <table class="price-list slider__list">
-            <thead class="price-list__header">
-              <tr class="price-list__item">
-                <th class="price-list__head"></th>
-                <th class="price-list__head">
-                  База
-                  <span class="price-list__price-tag">1,99 USD</span>
-                </th>
-                <th class="price-list__head price-list__head--hit">
-                  Стандарт
-                  <span class="price-list__price-tag">3,99 USD</span>
-                </th>
-                <th class="price-list__head">
-                  Анлим
-                  <span class="price-list__price-tag">9,99 USD</span>
-                </th>
-              </tr>
-            </thead>
-            <tbody class="price-list__body">
-              <tr class="price-list__item">
-                <td class="price-list__field">Розовый фильтр</td>
-                <td class="price-list__field price-list__field--yes">
-                  <span class="price-list__field-text">Розовый фильтр</span>
-                </td>
-                <td class="price-list__field price-list__field--yes">
-                  <span class="price-list__field-text">Розовый фильтр</span>
-                </td>
-                <td class="price-list__field price-list__field--yes">
-                  <span class="price-list__field-text">Розовый фильтр</span>
-                </td>
-              </tr>
-              <tr class="price-list__item">
-                <td class="price-list__field">Смайлики</td>
-                <td class="price-list__field price-list__field--no">
-                  <span class="price-list__field-text">Смайлики</span>
-                </td>
-                <td class="price-list__field price-list__field--yes">
-                  <span class="price-list__field-text">Смайлики</span>
-                </td>
-                <td class="price-list__field price-list__field--yes">
-                  <span class="price-list__field-text">Смайлики</span>
-                </td>
-              </tr>
-              <tr class="price-list__item">
-                <td class="price-list__field">Комментарии</td>
-                <td class="price-list__field price-list__field--no">
-                  <span class="price-list__field-text">Комментарии</span>
-                </td>
-                <td class="price-list__field price-list__field--no">
-                  <span class="price-list__field-text">Комментарии</span>
-                </td>
-                <td class="price-list__field price-list__field--radius price-list__field--yes">
-                  <span class="price-list__field-text">Комментарии</span>
-                </td>
-              </tr>
-            </tbody>
-          </table>
+          <div class="price-list__container">
+            <table class="price-list slider__list">
+              <thead class="price-list__header">
+                <tr class="price-list__item">
+                  <th class="price-list__head"></th>
+                  <th class="price-list__head">
+                    База
+                    <span class="price-list__price-tag">1,99 USD</span>
+                  </th>
+                  <th class="price-list__head price-list__head--hit">
+                    Стандарт
+                    <span class="price-list__price-tag">3,99 USD</span>
+                  </th>
+                  <th class="price-list__head">
+                    Анлим
+                    <span class="price-list__price-tag">9,99 USD</span>
+                  </th>
+                </tr>
+              </thead>
+              <tbody class="price-list__body">
+                <tr class="price-list__item">
+                  <td class="price-list__field">Розовый фильтр</td>
+                  <td class="price-list__field price-list__field--yes">
+                    <span class="price-list__field-text">Розовый фильтр</span>
+                  </td>
+                  <td class="price-list__field price-list__field--yes">
+                    <span class="price-list__field-text">Розовый фильтр</span>
+                  </td>
+                  <td class="price-list__field price-list__field--yes">
+                    <span class="price-list__field-text">Розовый фильтр</span>
+                  </td>
+                </tr>
+                <tr class="price-list__item">
+                  <td class="price-list__field">Смайлики</td>
+                  <td class="price-list__field price-list__field--no">
+                    <span class="price-list__field-text">Смайлики</span>
+                  </td>
+                  <td class="price-list__field price-list__field--yes">
+                    <span class="price-list__field-text">Смайлики</span>
+                  </td>
+                  <td class="price-list__field price-list__field--yes">
+                    <span class="price-list__field-text">Смайлики</span>
+                  </td>
+                </tr>
+                <tr class="price-list__item">
+                  <td class="price-list__field">Комментарии</td>
+                  <td class="price-list__field price-list__field--no">
+                    <span class="price-list__field-text">Комментарии</span>
+                  </td>
+                  <td class="price-list__field price-list__field--no">
+                    <span class="price-list__field-text">Комментарии</span>
+                  </td>
+                  <td class="price-list__field price-list__field--radius price-list__field--yes">
+                    <span class="price-list__field-text">Комментарии</span>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
           <div class="price__toggles slider__toggles">
             <label class="slider__toggle" for="price-input-1">
               <span class="visually-hidden">Тариф база</span>
