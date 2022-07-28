@@ -1,0 +1,1529 @@
+{
+	"files": [
+		{
+			"path": "css/style.less",
+			"bookmarks": [
+				{
+					"line": 62,
+					"column": 3,
+					"label": "Mobile Buttons"
+				},
+				{
+					"line": 79,
+					"column": 3,
+					"label": "Mobile Wrappers"
+				},
+				{
+					"line": 102,
+					"column": 3,
+					"label": "Mobile — lists"
+				},
+				{
+					"line": 114,
+					"column": 3,
+					"label": "Mobile — hovers"
+				},
+				{
+					"line": 120,
+					"column": 3,
+					"label": "Mobile — actives"
+				},
+				{
+					"line": 128,
+					"column": 3,
+					"label": "Mobile — transitions"
+				},
+				{
+					"line": 135,
+					"column": 3,
+					"label": "Mobile — page-header"
+				},
+				{
+					"line": 139,
+					"column": 3,
+					"label": "Mobile — main-navigation"
+				},
+				{
+					"line": 145,
+					"column": 3,
+					"label": "Mobile — main-nagivation__logo-link"
+				},
+				{
+					"line": 148,
+					"column": 3,
+					"label": "Mobile — main-navigation__toggle"
+				},
+				{
+					"line": 164,
+					"column": 3,
+					"label": "Mobile — main-navigation__toggle-icon"
+				},
+				{
+					"line": 168,
+					"column": 3,
+					"label": "Mobile — main-navigation__toggle-cross"
+				},
+				{
+					"line": 173,
+					"column": 3,
+					"label": "Mobile — site-list"
+				},
+				{
+					"line": 177,
+					"column": 3,
+					"label": "Mobile — site-list__item"
+				},
+				{
+					"line": 183,
+					"column": 3,
+					"label": "Mobile — site-list__link"
+				},
+				{
+					"line": 207,
+					"column": 3,
+					"label": "Mobile — page-intro"
+				},
+				{
+					"line": 262,
+					"column": 3,
+					"label": "Mobile — page-intro__wrapper"
+				},
+				{
+					"line": 270,
+					"column": 3,
+					"label": "Mobile — page-intro__slogan"
+				},
+				{
+					"line": 275,
+					"column": 3,
+					"label": "Mobile — page-intro__download"
+				},
+				{
+					"line": 294,
+					"column": 3,
+					"label": "Mobile — page-intro__list"
+				},
+				{
+					"line": 301,
+					"column": 3,
+					"label": "Mobile — platform-list"
+				},
+				{
+					"line": 307,
+					"column": 3,
+					"label": "Mobile — platform-list__item"
+				},
+				{
+					"line": 339,
+					"column": 3,
+					"label": "Mobile — page-intro__text"
+				},
+				{
+					"line": 349,
+					"column": 3,
+					"label": "Mobile — page-intro__description-wrappper"
+				},
+				{
+					"line": 358,
+					"column": 3,
+					"label": "Mobile — page-intro__description"
+				},
+				{
+					"line": 372,
+					"column": 3,
+					"label": "Mobile — page-title"
+				},
+				{
+					"line": 379,
+					"column": 3,
+					"label": "Mobile — page-title__title"
+				},
+				{
+					"line": 393,
+					"column": 3,
+					"label": "Mobile — advantages"
+				},
+				{
+					"line": 419,
+					"column": 3,
+					"label": "Mobile — advantages-list"
+				},
+				{
+					"line": 424,
+					"column": 3,
+					"label": "Mobile — advantages-list__item"
+				},
+				{
+					"line": 433,
+					"column": 42,
+					"label": "Mobile — advantages-list__image-wrapper"
+				},
+				{
+					"line": 438,
+					"column": 3,
+					"label": "Mobile — advantages-list__title"
+				},
+				{
+					"line": 448,
+					"column": 40,
+					"label": "Mobile — advantages-list__description"
+				},
+				{
+					"line": 455,
+					"column": 3,
+					"label": "Mobile — advantages__image-wrapper"
+				},
+				{
+					"line": 464,
+					"column": 3,
+					"label": "Mobile — advantages__image"
+				},
+				{
+					"line": 469,
+					"column": 3,
+					"label": "Mobile — research"
+				},
+				{
+					"line": 474,
+					"column": 3,
+					"label": "Mobile — reviews"
+				},
+				{
+					"line": 479,
+					"column": 25,
+					"label": "Mobile — reviews-input"
+				},
+				{
+					"line": 495,
+					"column": 3,
+					"label": "Mobile — reviews-list"
+				},
+				{
+					"line": 500,
+					"column": 3,
+					"label": "Mobile — reviews-list__item"
+				},
+				{
+					"line": 506,
+					"column": 3,
+					"label": "Mobile — reviews-list__author "
+				},
+				{
+					"line": 515,
+					"column": 3,
+					"label": "Mobile — reviews-list__author-name"
+				},
+				{
+					"line": 524,
+					"column": 3,
+					"label": "Mobile — reviews-list__author-info"
+				},
+				{
+					"line": 529,
+					"column": 3,
+					"label": "Mobile — reviews-list__author-text"
+				},
+				{
+					"line": 537,
+					"column": 34,
+					"label": "Mobile — reviews-list__previous"
+				},
+				{
+					"line": 538,
+					"column": 3,
+					"label": "Mobile — reviews-list__next"
+				},
+				{
+					"line": 544,
+					"column": 30,
+					"label": "Mobile — reviews__toggles"
+				},
+				{
+					"line": 548,
+					"column": 29,
+					"label": "Mobile — slider__toggles"
+				},
+				{
+					"line": 555,
+					"column": 5,
+					"label": "Mobile — slider__toggle"
+				},
+				{
+					"line": 579,
+					"column": 17,
+					"label": "Mobile — price"
+				},
+				{
+					"line": 602,
+					"column": 3,
+					"label": "Mobile — price__wrapper"
+				},
+				{
+					"line": 608,
+					"column": 3,
+					"label": "Mobile — price-list"
+				},
+				{
+					"line": 625,
+					"column": 3,
+					"label": "Mobile — price-list__item"
+				},
+				{
+					"line": 647,
+					"column": 3,
+					"label": "Mobile — price-list__head"
+				},
+				{
+					"line": 694,
+					"column": 3,
+					"label": "Mobile — price-list__price-tag"
+				},
+				{
+					"line": 702,
+					"column": 3,
+					"label": "Mobile — price-list__body"
+				},
+				{
+					"line": 706,
+					"column": 3,
+					"label": "Mobile — price-list__field"
+				},
+				{
+					"line": 747,
+					"column": 3,
+					"label": "Mobile — contacts"
+				},
+				{
+					"line": 752,
+					"column": 3,
+					"label": "Mobile — contacts__title-wrapper"
+				},
+				{
+					"line": 757,
+					"column": 3,
+					"label": "Mobile — contacts__title"
+				},
+				{
+					"line": 768,
+					"column": 3,
+					"label": "Mobile — contacts__list"
+				},
+				{
+					"line": 774,
+					"column": 3,
+					"label": "Mobile — contacts__item"
+				},
+				{
+					"line": 783,
+					"column": 3,
+					"label": "Mobile — contacts__item-title"
+				},
+				{
+					"line": 791,
+					"column": 3,
+					"label": "Mobile — contacts__item-link"
+				},
+				{
+					"line": 831,
+					"column": 3,
+					"label": "Mobile — contacts__item-text"
+				},
+				{
+					"line": 836,
+					"column": 3,
+					"label": "Mobile — contacts__map-wrapper"
+				},
+				{
+					"line": 860,
+					"column": 3,
+					"label": "Mobile — photos-item"
+				},
+				{
+					"line": 902,
+					"column": 3,
+					"label": "Mobile — photos-item__image-wrapper"
+				},
+				{
+					"line": 913,
+					"column": 3,
+					"label": "Mobile — photos-item__image"
+				},
+				{
+					"line": 918,
+					"column": 3,
+					"label": "Mobile — photos-item__info"
+				},
+				{
+					"line": 925,
+					"column": 3,
+					"label": "Mobile — photos-item__author-name"
+				},
+				{
+					"line": 933,
+					"column": 3,
+					"label": "Mobile — photos-item__author-time"
+				},
+				{
+					"line": 940,
+					"column": 3,
+					"label": "Mobile — photos-item__author-text"
+				},
+				{
+					"line": 946,
+					"column": 3,
+					"label": "Mobile — photos-item__likes"
+				},
+				{
+					"line": 971,
+					"column": 3,
+					"label": "Mobile — editor"
+				},
+				{
+					"line": 978,
+					"column": 3,
+					"label": "Mobile — editor__description-wrapper"
+				},
+				{
+					"line": 982,
+					"column": 3,
+					"label": "Mobile — editor__description"
+				},
+				{
+					"line": 987,
+					"column": 3,
+					"label": "Mobile — editor__wrapper"
+				},
+				{
+					"line": 992,
+					"column": 3,
+					"label": "Mobile — editor__image-wrapper"
+				},
+				{
+					"line": 1004,
+					"column": 3,
+					"label": "Mobile — editor-tools__toggles"
+				},
+				{
+					"line": 1013,
+					"column": 3,
+					"label": "Mobile — editor-tools__toggle"
+				},
+				{
+					"line": 1028,
+					"column": 3,
+					"label": "Mobile — editor-tools__toggle-icon"
+				},
+				{
+					"line": 1033,
+					"column": 3,
+					"label": "Mobile — editor-tools"
+				},
+				{
+					"line": 1038,
+					"column": 3,
+					"label": "Mobile — editor-tools__range-wrapper"
+				},
+				{
+					"line": 1047,
+					"column": 3,
+					"label": "Mobile — editor-tools__range-label"
+				},
+				{
+					"line": 1052,
+					"column": 3,
+					"label": "Mobile — editor-tools__range"
+				},
+				{
+					"line": 1111,
+					"column": 3,
+					"label": "Mobile — editor-tools__submit"
+				},
+				{
+					"line": 1112,
+					"column": 3,
+					"label": "Mobile — editor-tools__cancel"
+				},
+				{
+					"line": 1168,
+					"column": 3,
+					"label": "Mobile — event"
+				},
+				{
+					"line": 1173,
+					"column": 3,
+					"label": "Mobile Fieldsets"
+				},
+				{
+					"line": 1209,
+					"column": 3,
+					"label": "Mobile Fieldset Titles"
+				},
+				{
+					"line": 1237,
+					"column": 3,
+					"label": "Mobile Field Wrappers"
+				},
+				{
+					"line": 1248,
+					"column": 3,
+					"label": "Mobile Field Labels"
+				},
+				{
+					"line": 1260,
+					"column": 3,
+					"label": "Mobile Fields"
+				},
+				{
+					"line": 1319,
+					"column": 3,
+					"label": "Mobile Checkbox and Radio Labels"
+				},
+				{
+					"line": 1408,
+					"column": 3,
+					"label": "Mobile — form__sumbit"
+				},
+				{
+					"line": 1435,
+					"column": 3,
+					"label": "Mobile — form__required"
+				},
+				{
+					"line": 1449,
+					"column": 3,
+					"label": "Mobile — form__required-sup"
+				},
+				{
+					"line": 1459,
+					"column": 3,
+					"label": "Mobile — page-footer"
+				},
+				{
+					"line": 1469,
+					"column": 3,
+					"label": "Mobile — page-footer__wrapper"
+				},
+				{
+					"line": 1473,
+					"column": 3,
+					"label": "Mobile — page-footer__logo-link"
+				},
+				{
+					"line": 1497,
+					"column": 37,
+					"label": "Mobile — page-footer__logo-desktop"
+				},
+				{
+					"line": 1502,
+					"column": 3,
+					"label": "Mobile — social-list"
+				},
+				{
+					"line": 1510,
+					"column": 3,
+					"label": "Mobile — social-list__item"
+				},
+				{
+					"line": 1519,
+					"column": 3,
+					"label": "Mobile — social-list__link"
+				},
+				{
+					"line": 1564,
+					"column": 21,
+					"label": "Mobile — copyright"
+				},
+				{
+					"line": 1574,
+					"column": 3,
+					"label": "Mobile — page-footer__copyright"
+				},
+				{
+					"line": 1579,
+					"column": 3,
+					"label": "Mobile — copytight__link"
+				},
+				{
+					"line": 1598,
+					"column": 3,
+					"label": "Mobile — copyright__link-icon"
+				},
+				{
+					"line": 1603,
+					"column": 3,
+					"label": "Mobile Retina"
+				},
+				{
+					"line": 1605,
+					"column": 7,
+					"label": "Mobile — page-intro"
+				},
+				{
+					"line": 1615,
+					"column": 3,
+					"label": "Mobile Width Only (MWO)"
+				},
+				{
+					"line": 1617,
+					"column": 3,
+					"label": "MWO — price-input"
+				},
+				{
+					"line": 1628,
+					"column": 5,
+					"label": "MWO — price-list__wrapper"
+				},
+				{
+					"line": 1637,
+					"column": 5,
+					"label": "MWO — price-list__head"
+				},
+				{
+					"line": 1644,
+					"column": 5,
+					"label": "MWO — price-list__field"
+				},
+				{
+					"line": 1651,
+					"column": 22,
+					"label": "MWO — tools-radio"
+				},
+				{
+					"line": 1666,
+					"column": 3,
+					"label": "Tablet"
+				},
+				{
+					"line": 1668,
+					"column": 5,
+					"label": "Tablet Wrappers"
+				},
+				{
+					"line": 1685,
+					"column": 5,
+					"label": "Tablet — main-navigation"
+				},
+				{
+					"line": 1703,
+					"column": 40,
+					"label": "Tablet — main-nagivation__logo-link"
+				},
+				{
+					"line": 1711,
+					"column": 5,
+					"label": "Tablet — main-nagivation__logo"
+				},
+				{
+					"line": 1719,
+					"column": 5,
+					"label": "Tablet — main-nagivation__logo-tablet"
+				},
+				{
+					"line": 1724,
+					"column": 5,
+					"label": "Tablet — main-nagivation__logo-mobile"
+				},
+				{
+					"line": 1729,
+					"column": 5,
+					"label": "Tablet — main-navigation__toggle"
+				},
+				{
+					"line": 1735,
+					"column": 5,
+					"label": "Tablet — page-intro"
+				},
+				{
+					"line": 1796,
+					"column": 5,
+					"label": "Tablet — page-intro__wrapper"
+				},
+				{
+					"line": 1805,
+					"column": 5,
+					"label": "Tablet — page-intro__slogan"
+				},
+				{
+					"line": 1817,
+					"column": 5,
+					"label": "Tablet — page-intro__download"
+				},
+				{
+					"line": 1823,
+					"column": 5,
+					"label": "Tablet — page-intro__text"
+				},
+				{
+					"line": 1831,
+					"column": 5,
+					"label": "Tablet — page-intro__list"
+				},
+				{
+					"line": 1836,
+					"column": 5,
+					"label": "Tablet — page-title"
+				},
+				{
+					"line": 1842,
+					"column": 5,
+					"label": "Tablet — page-title__title"
+				},
+				{
+					"line": 1851,
+					"column": 5,
+					"label": "Tablet — advantages"
+				},
+				{
+					"line": 1861,
+					"column": 5,
+					"label": "Tablet — advantages__wrapper"
+				},
+				{
+					"line": 1867,
+					"column": 5,
+					"label": "Tablet — advantages-list"
+				},
+				{
+					"line": 1874,
+					"column": 5,
+					"label": "Tablet — advantages-list__item"
+				},
+				{
+					"line": 1886,
+					"column": 36,
+					"label": "Tablet — advantages-list__title"
+				},
+				{
+					"line": 1892,
+					"column": 5,
+					"label": "Tablet — advantages-list__description"
+				},
+				{
+					"line": 1896,
+					"column": 5,
+					"label": "Tablet — advantages__image-wrapper"
+				},
+				{
+					"line": 1906,
+					"column": 5,
+					"label": "Tablet — research"
+				},
+				{
+					"line": 1913,
+					"column": 5,
+					"label": "Tablet — research-item"
+				},
+				{
+					"line": 1933,
+					"column": 5,
+					"label": "Tablet — research-item__title"
+				},
+				{
+					"line": 1943,
+					"column": 5,
+					"label": "Tablet — research-item__description"
+				},
+				{
+					"line": 1950,
+					"column": 5,
+					"label": "Tablet — research-item__link"
+				},
+				{
+					"line": 1964,
+					"column": 5,
+					"label": "Tablet — reviews"
+				},
+				{
+					"line": 1969,
+					"column": 5,
+					"label": "Tablet — reviews-input"
+				},
+				{
+					"line": 1976,
+					"column": 5,
+					"label": "Tablet — reviews-list"
+				},
+				{
+					"line": 1981,
+					"column": 5,
+					"label": "Tablet — reviews-list__item"
+				},
+				{
+					"line": 1986,
+					"column": 5,
+					"label": "Tablet — reviews-list__author"
+				},
+				{
+					"line": 1991,
+					"column": 5,
+					"label": "Tablet — reviews-list__author-name"
+				},
+				{
+					"line": 1996,
+					"column": 5,
+					"label": "Tablet — reviews-list__author-info"
+				},
+				{
+					"line": 2003,
+					"column": 5,
+					"label": "Tablet — reviews-list__author-text"
+				},
+				{
+					"line": 2010,
+					"column": 5,
+					"label": "Tablet — price"
+				},
+				{
+					"line": 2020,
+					"column": 5,
+					"label": "Tablet — price__wrapper"
+				},
+				{
+					"line": 2024,
+					"column": 5,
+					"label": "Tablet — price-list__wrapper"
+				},
+				{
+					"line": 2028,
+					"column": 5,
+					"label": "Tablet — price-list"
+				},
+				{
+					"line": 2037,
+					"column": 5,
+					"label": "Tablet — price-list__header"
+				},
+				{
+					"line": 2045,
+					"column": 30,
+					"label": "Tablet — price-list__body"
+				},
+				{
+					"line": 2049,
+					"column": 5,
+					"label": "Tablet — price-list__item"
+				},
+				{
+					"line": 2074,
+					"column": 5,
+					"label": "Tablet — price-list__head"
+				},
+				{
+					"line": 2090,
+					"column": 5,
+					"label": "Tablet — price-list__price-tag"
+				},
+				{
+					"line": 2095,
+					"column": 5,
+					"label": "Tablet — price-list__field"
+				},
+				{
+					"line": 2110,
+					"column": 5,
+					"label": "Tablet — price-list__field-text"
+				},
+				{
+					"line": 2115,
+					"column": 5,
+					"label": "Tablet — price__toggles"
+				},
+				{
+					"line": 2120,
+					"column": 5,
+					"label": "Tablet — contacts"
+				},
+				{
+					"line": 2125,
+					"column": 5,
+					"label": "Tablet — contacts__title-wrapper"
+				},
+				{
+					"line": 2130,
+					"column": 5,
+					"label": "Tablet — contacts__title"
+				},
+				{
+					"line": 2137,
+					"column": 5,
+					"label": "Tablet — contacts__list"
+				},
+				{
+					"line": 2144,
+					"column": 5,
+					"label": "Tablet — contacts__item"
+				},
+				{
+					"line": 2158,
+					"column": 5,
+					"label": "Tablet — contacts__map-wrapper"
+				},
+				{
+					"line": 2167,
+					"column": 5,
+					"label": "Tablet — photos__wrapper"
+				},
+				{
+					"line": 2173,
+					"column": 5,
+					"label": "Tablet — photos-item"
+				},
+				{
+					"line": 2218,
+					"column": 5,
+					"label": "Tablet — photos-item__image-wrapper"
+				},
+				{
+					"line": 2224,
+					"column": 31,
+					"label": "Tablet — photos-item__info"
+				},
+				{
+					"line": 2240,
+					"column": 5,
+					"label": "Tablet — photos-item__likes"
+				},
+				{
+					"line": 2252,
+					"column": 5,
+					"label": "Tablet — editor"
+				},
+				{
+					"line": 2257,
+					"column": 5,
+					"label": "Tablet — editor__description-wrapper"
+				},
+				{
+					"line": 2263,
+					"column": 5,
+					"label": "Tablet — editor__description"
+				},
+				{
+					"line": 2271,
+					"column": 29,
+					"label": "Tablet — editor__wrapper"
+				},
+				{
+					"line": 2277,
+					"column": 5,
+					"label": "Tablet — editor__image-wrapper"
+				},
+				{
+					"line": 2284,
+					"column": 5,
+					"label": "Tablet — editor-tools__wrapper"
+				},
+				{
+					"line": 2293,
+					"column": 5,
+					"label": "Tablet — editor-tools__form"
+				},
+				{
+					"line": 2300,
+					"column": 5,
+					"label": "Tablet — editor-tools__toggles"
+				},
+				{
+					"line": 2305,
+					"column": 5,
+					"label": "Tablet — editor-tools__range-wrapper"
+				},
+				{
+					"line": 2336,
+					"column": 5,
+					"label": "Tablet — editor-tools__range-label"
+				},
+				{
+					"line": 2345,
+					"column": 5,
+					"label": "Tablet — editor-tools__icon"
+				},
+				{
+					"line": 2363,
+					"column": 5,
+					"label": "Tablet — editor-tools__range"
+				},
+				{
+					"line": 2375,
+					"column": 5,
+					"label": "Tablet — editor-tools__buttons-wrapper"
+				},
+				{
+					"line": 2380,
+					"column": 5,
+					"label": "Tablet — event"
+				},
+				{
+					"line": 2385,
+					"column": 5,
+					"label": "Tablet — form"
+				},
+				{
+					"line": 2391,
+					"column": 5,
+					"label": "Tablet Fieldsets"
+				},
+				{
+					"line": 2447,
+					"column": 5,
+					"label": "Tablet Fieldset Wrappers"
+				},
+				{
+					"line": 2454,
+					"column": 5,
+					"label": "Tablet Fieldset Titles"
+				},
+				{
+					"line": 2464,
+					"column": 5,
+					"label": "Tablet Fieldset Title Breaks"
+				},
+				{
+					"line": 2470,
+					"column": 3,
+					"label": "Tablet Field Wrappers"
+				},
+				{
+					"line": 2488,
+					"column": 22,
+					"label": "Tablet Field Labels"
+				},
+				{
+					"line": 2501,
+					"column": 3,
+					"label": "Tablet Fields"
+				},
+				{
+					"line": 2516,
+					"column": 3,
+					"label": "Tablet Checkbox and Radio Labels"
+				},
+				{
+					"line": 2522,
+					"column": 5,
+					"label": "Tablet — form__footer"
+				},
+				{
+					"line": 2533,
+					"column": 5,
+					"label": "Tablet — form__sumbit"
+				},
+				{
+					"line": 2539,
+					"column": 5,
+					"label": "Tablet — form__required"
+				},
+				{
+					"line": 2547,
+					"column": 5,
+					"label": "Tablet — page-footer"
+				},
+				{
+					"line": 2554,
+					"column": 5,
+					"label": "Tablet — page-footer__wrapper"
+				},
+				{
+					"line": 2560,
+					"column": 5,
+					"label": "Tablet — page-footer__logo-link"
+				},
+				{
+					"line": 2565,
+					"column": 5,
+					"label": "Tablet — page-footer__logo"
+				},
+				{
+					"line": 2569,
+					"column": 5,
+					"label": "Tablet — page-footer__social"
+				},
+				{
+					"line": 2574,
+					"column": 25,
+					"label": "Tablet — social-list"
+				},
+				{
+					"line": 2580,
+					"column": 5,
+					"label": "Tablet — social-list__item"
+				},
+				{
+					"line": 2584,
+					"column": 5,
+					"label": "Tablet — social-list__link"
+				},
+				{
+					"line": 2588,
+					"column": 5,
+					"label": "Tablet — copyright"
+				},
+				{
+					"line": 2592,
+					"column": 38,
+					"label": "Tablet — page-footer__copyright"
+				},
+				{
+					"line": 2597,
+					"column": 5,
+					"label": "Tablet — copytight__link"
+				},
+				{
+					"line": 2601,
+					"column": 5,
+					"label": "Tablet — copyright__link-icon"
+				},
+				{
+					"line": 2605,
+					"column": 5,
+					"label": "Tablet Retina"
+				},
+				{
+					"line": 2617,
+					"column": 3,
+					"label": "Mobile and Tablet Width Only (MTWO)"
+				},
+				{
+					"line": 2619,
+					"column": 5,
+					"label": "MTWO — main-navigation"
+				},
+				{
+					"line": 2647,
+					"column": 5,
+					"label": "MTWO — site-list__item"
+				},
+				{
+					"line": 2656,
+					"column": 21,
+					"label": "Desktop Wrappers"
+				},
+				{
+					"line": 2675,
+					"column": 5,
+					"label": "Desktop — page-header"
+				},
+				{
+					"line": 2680,
+					"column": 5,
+					"label": "Desktop — main-navigation"
+				},
+				{
+					"line": 2689,
+					"column": 5,
+					"label": "Desktop — main-navigation__wrapper"
+				},
+				{
+					"line": 2695,
+					"column": 5,
+					"label": "Desktop — main-nagivation__logo-link"
+				},
+				{
+					"line": 2704,
+					"column": 5,
+					"label": "Desktop — main-nagivation__logo"
+				},
+				{
+					"line": 2709,
+					"column": 43,
+					"label": "Desktop — main-nagivation__logo-tablet"
+				},
+				{
+					"line": 2714,
+					"column": 5,
+					"label": "Desktop — main-nagivation__logo-desktop"
+				},
+				{
+					"line": 2719,
+					"column": 5,
+					"label": "Desktop — main-navigation__toggle"
+				},
+				{
+					"line": 2724,
+					"column": 5,
+					"label": "Desktop — site-list"
+				},
+				{
+					"line": 2730,
+					"column": 5,
+					"label": "Desktop — site-list__item"
+				},
+				{
+					"line": 2740,
+					"column": 5,
+					"label": "Desktop — site-list__link"
+				},
+				{
+					"line": 2762,
+					"column": 5,
+					"label": "Desktop — page-intro"
+				},
+				{
+					"line": 2805,
+					"column": 33,
+					"label": "Desktop — page-intro__slogan"
+				},
+				{
+					"line": 2818,
+					"column": 5,
+					"label": "Desktop — page-intro__download"
+				},
+				{
+					"line": 2826,
+					"column": 5,
+					"label": "Desktop — page-intro__list"
+				},
+				{
+					"line": 2831,
+					"column": 5,
+					"label": "Desktop — page-title"
+				},
+				{
+					"line": 2837,
+					"column": 5,
+					"label": "Desktop — page-title__title"
+				},
+				{
+					"line": 2842,
+					"column": 5,
+					"label": "Desktop — advantages"
+				},
+				{
+					"line": 2853,
+					"column": 5,
+					"label": "Desktop — advantages__wrapper"
+				},
+				{
+					"line": 2858,
+					"column": 5,
+					"label": "Desktop — advantages-list"
+				},
+				{
+					"line": 2868,
+					"column": 5,
+					"label": "Desktop — advantages-list__item"
+				},
+				{
+					"line": 2875,
+					"column": 5,
+					"label": "Desktop — advantages-list__image-wrapper"
+				},
+				{
+					"line": 2886,
+					"column": 5,
+					"label": "Desktop — advantages-list__image"
+				},
+				{
+					"line": 2893,
+					"column": 5,
+					"label": "Desktop — advantages-list__title"
+				},
+				{
+					"line": 2905,
+					"column": 5,
+					"label": "Desktop — advantages-list__description"
+				},
+				{
+					"line": 2912,
+					"column": 5,
+					"label": "Desktop — advantages__image-wrapper"
+				},
+				{
+					"line": 2917,
+					"column": 5,
+					"label": "Desktop — research"
+				},
+				{
+					"line": 2926,
+					"column": 5,
+					"label": "Desktop — research-item"
+				},
+				{
+					"line": 2940,
+					"column": 5,
+					"label": "Desktop — research-item__title"
+				},
+				{
+					"line": 2950,
+					"column": 5,
+					"label": "Desktop — research-item__title-break"
+				},
+				{
+					"line": 2955,
+					"column": 5,
+					"label": "Desktop — research-item__description"
+				},
+				{
+					"line": 2962,
+					"column": 5,
+					"label": "Desktop — research-item__link"
+				},
+				{
+					"line": 2967,
+					"column": 5,
+					"label": "Desktop — reviews"
+				},
+				{
+					"line": 2974,
+					"column": 5,
+					"label": "Desktop — reviews__wrapper"
+				},
+				{
+					"line": 2991,
+					"column": 5,
+					"label": "Desktop — reviews-list"
+				},
+				{
+					"line": 2997,
+					"column": 5,
+					"label": "Desktop — reviews-list__author-name"
+				},
+				{
+					"line": 3004,
+					"column": 5,
+					"label": "Desktop — reviews-list__author-info"
+				},
+				{
+					"line": 3009,
+					"column": 5,
+					"label": "Desktop — reviews-list__author-text"
+				},
+				{
+					"line": 3016,
+					"column": 37,
+					"label": "Desktop — reviews-list__previous"
+				},
+				{
+					"line": 3017,
+					"column": 5,
+					"label": "Desktop — reviews-list__next"
+				},
+				{
+					"line": 3054,
+					"column": 5,
+					"label": "Desktop — reviews__toggles"
+				},
+				{
+					"line": 3059,
+					"column": 5,
+					"label": "Desktop — price"
+				},
+				{
+					"line": 3069,
+					"column": 31,
+					"label": "Desktop — price-list__head"
+				},
+				{
+					"line": 3087,
+					"column": 5,
+					"label": "Desktop — price-list__price-tag"
+				},
+				{
+					"line": 3092,
+					"column": 5,
+					"label": "Desktop — price-list__field"
+				},
+				{
+					"line": 3099,
+					"column": 5,
+					"label": "Desktop — contacts"
+				},
+				{
+					"line": 3104,
+					"column": 5,
+					"label": "Desktop — contacts__title-wrapper"
+				},
+				{
+					"line": 3109,
+					"column": 5,
+					"label": "Desktop — contacts__title"
+				},
+				{
+					"line": 3116,
+					"column": 5,
+					"label": "Desktop — contacts__list"
+				},
+				{
+					"line": 3121,
+					"column": 5,
+					"label": "Desktop — contacts__item"
+				},
+				{
+					"line": 3144,
+					"column": 5,
+					"label": "Desktop — contacts__item-title"
+				},
+				{
+					"line": 3149,
+					"column": 5,
+					"label": "Desktop — contacts__map-wrapper"
+				},
+				{
+					"line": 3158,
+					"column": 5,
+					"label": "Desktop — photos-item"
+				},
+				{
+					"line": 3188,
+					"column": 3,
+					"label": "Desktop — photos__wrapper"
+				},
+				{
+					"line": 3192,
+					"column": 5,
+					"label": "Desktop — photos-item__image-wrapper"
+				},
+				{
+					"line": 3197,
+					"column": 5,
+					"label": "Desktop — editor"
+				},
+				{
+					"line": 3204,
+					"column": 5,
+					"label": "Desktop — editor__description-wrapper"
+				},
+				{
+					"line": 3209,
+					"column": 5,
+					"label": "Desktop — editor__wrapper"
+				},
+				{
+					"line": 3217,
+					"column": 5,
+					"label": "Desktop — editor-tools__wrapper"
+				},
+				{
+					"line": 3222,
+					"column": 5,
+					"label": "Desktop — editor-tools__range-wrapper"
+				},
+				{
+					"line": 3231,
+					"column": 5,
+					"label": "Desktop — editor-tools__range"
+				},
+				{
+					"line": 3236,
+					"column": 5,
+					"label": "Desktop — editor-tools__range-label"
+				},
+				{
+					"line": 3242,
+					"column": 5,
+					"label": "Desktop — editor-tools__icon"
+				},
+				{
+					"line": 3257,
+					"column": 5,
+					"label": "Desktop — editor-tools__buttons-wrapper"
+				},
+				{
+					"line": 3263,
+					"column": 5,
+					"label": "Desktop — editor-tools__submit"
+				},
+				{
+					"line": 3272,
+					"column": 5,
+					"label": "Desktop — event"
+				},
+				{
+					"line": 3277,
+					"column": 5,
+					"label": "Desktop — form"
+				},
+				{
+					"line": 3284,
+					"column": 5,
+					"label": "Desktop Fieldsets"
+				},
+				{
+					"line": 3314,
+					"column": 5,
+					"label": "Desktop Fieldset Wrappers"
+				},
+				{
+					"line": 3331,
+					"column": 27,
+					"label": "Desktop Field Wrappers"
+				},
+				{
+					"line": 3337,
+					"column": 19,
+					"label": "Desktop Fields"
+				},
+				{
+					"line": 3348,
+					"column": 38,
+					"label": "Desktop Checkbox and Radio Labels"
+				},
+				{
+					"line": 3359,
+					"column": 5,
+					"label": "Desktop — form__required"
+				},
+				{
+					"line": 3366,
+					"column": 5,
+					"label": "Desktop — page-footer"
+				},
+				{
+					"line": 3372,
+					"column": 5,
+					"label": "Desktop — page-footer__wrapper"
+				},
+				{
+					"line": 3376,
+					"column": 39,
+					"label": "Desktop — page-footer__logo-tablet"
+				},
+				{
+					"line": 3381,
+					"column": 5,
+					"label": "Desktop — page-footer__logo-desktop"
+				},
+				{
+					"line": 3386,
+					"column": 5,
+					"label": "Desktop — page-footer__social"
+				},
+				{
+					"line": 3391,
+					"column": 5,
+					"label": "Desktop — copyright"
+				},
+				{
+					"line": 3404,
+					"column": 3,
+					"label": "IE 11 Mobile"
+				},
+				{
+					"line": 3406,
+					"column": 3,
+					"label": "IE 11 Mobile — editor-tools__range"
+				},
+				{
+					"line": 3454,
+					"column": 3,
+					"label": "IE 11 Tablet"
+				},
+				{
+					"line": 3456,
+					"column": 5,
+					"label": "IE 11 Tablet — price-list__field"
+				},
+				{
+					"line": 3469,
+					"column": 5,
+					"label": "IE 11 Tablet — editor-tools__range"
+				},
+				{
+					"line": 3476,
+					"column": 3,
+					"label": "IE 11 Desktop — price-list__field"
+				}
+			]
+		}
+	]
+}
